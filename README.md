@@ -1,4 +1,4 @@
-# datatest
+# online-data-test-app
 
 ## Project setup
 ```
